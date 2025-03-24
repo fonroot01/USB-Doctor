@@ -37,6 +37,3 @@ USB Doctor es una herramienta en Python diseñada para reparar unidades USB afec
 
 Licencia
 Este proyecto fue creado por Alfonso Mosquera en 2025 y está protegido bajo la Licencia Pública General de GNU (GPL-3.0). Consulte el archivo LICENSE para más detalles.
-
-Agradecimientos
-Gracias por su interés en USB Doctor. Esperamos que esta herramienta le sea útil para mantener sus unidades USB seguras y funcionales.
