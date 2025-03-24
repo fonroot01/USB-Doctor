@@ -1,50 +1,42 @@
+# USB Doctor
 
-# USB Doctor – Recupera tus archivos sin complicaciones  
+## Descripción
+USB Doctor es una herramienta en Python diseñada para reparar unidades USB afectadas por accesos directos y archivos ocultos causados por malware. A través de una interfaz gráfica sencilla, permite restaurar la visibilidad de los archivos y eliminar accesos directos sin necesidad de formatear la unidad.
 
-USB Doctor es una herramienta desarrollada en Python, con el fin de reparar memorias USB con accesos directos y archivos ocultos raros, culpa del malware. Con una interfaz simple, recupera archivos y borra accesos directos, sin formatear.
+## Características
+- Restaura la visibilidad de archivos ocultos en la USB.
+- Elimina accesos directos creados por malware.
+- Muestra un log con las acciones realizadas.
+- Interfaz gráfica amigable.
 
-## 🔍 ¿Qué hace USB Doctor?  
-- **Muestra nuevamente los archivos ocultos sin alterarlos.**  
-- **Borra accesos directos creados por virus.**  
-- **Te da un registro con todo lo que se ha hecho.**  
-- **Tiene una interfaz súper fácil de entender.**  
+## Requisitos
+- Python 3.x
+- Tkinter (incluido en la mayoría de las distribuciones de Python para Windows)
 
-## ⚙️ Requisitos  
-- **Python 3.x** instalado en tu equipo.  
-- **Tkinter**, que ya viene con la mayoría de versiones de Python en Windows.  
+## Instalación
+1. Clona el repositorio:
+   ```sh
+   git clone https://github.com/TU_USUARIO/USB-Doctor.git
+   ```
+2. Accede al directorio del proyecto:
+   ```sh
+   cd USB-Doctor
+   ```
+3. Ejecuta el script:
+   ```sh
+   python usb_doctor.py
+   ```
 
-## 📥 ¿Cómo instalarlo? 
-
-Sigue estos pasos para instalar y ejecutar USB Doctor en tu equipo:  
-
-1. **Antes de instalar, debes de tener primero:**  
-- Python instalado en tu PC. https://www.python.org/
-   - Tener en cuenta marcar la casilla "Add Python to PATH" durante la instalación. 
-2. **Descargar USB Doctor|**
-     Hay dos maneras de bajarlo:
-- 1ra. Opción: Descargar manualmente
-   - Te vas a dirigir a tu repositorio en GitHub y le das clic en "Code" > "Download ZIP"
-   - Extraes el contenido en una carpeta en tu PC.
-- 2da. Opción: Clonar con Git
-   - git clone https://github.com/tu-usuario/USB-Doctor-1.0.git
-   - cd USB-Doctor-1.0
-3. **Instalar dependencias|**
-     Tenés que abrir CMD o PowerShell, vas a la carpeta del proyecto y lo ejecutas:
-- pip install -r requirements.txt
-4. **Ejecutar USB Doctor|**
-   Pones a correr el script con:
-- python usb_doctor.py 
-   
-## 🛠️ ¿Cómo se usa?
-1. Conecta la USB afectada.
-2. Abre el programa y elige la unidad.
-3. Haz clic en "Reparar USB" y deja que haga su trabajo.
-4. Cuando termine, revisa que tus archivos estén de vuelta.
-
-### 📜 Licencia y créditos
-Este proyecto usa la Licencia MIT, lo que significa que puedes modificarlo y compartirlo sin problema. Para más detalles, revisa el archivo LICENSE.
+## Uso
+1. Conecta la unidad USB afectada.
+2. Abre la herramienta y selecciona la unidad USB.
+3. Presiona el botón "Reparar USB".
+4. Espera a que la herramienta complete el proceso.
+5. Verifica que los archivos hayan sido restaurados correctamente.
 
 
+Licencia
+Este proyecto fue creado por Alfonso Mosquera en 2025 y está protegido bajo la Licencia Pública General de GNU (GPL-3.0). Consulte el archivo LICENSE para más detalles.
 
-
-📌 Creado por Alfonso Mosquera – 2025
+Agradecimientos
+Gracias por su interés en USB Doctor. Esperamos que esta herramienta le sea útil para mantener sus unidades USB seguras y funcionales.
