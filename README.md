@@ -1,7 +1,7 @@
 # USB Doctor
 
 ## Descripción
-USB Doctor es una herramienta en Python diseñada para reparar unidades USB afectadas por accesos directos y archivos ocultos causados por malware. A través de una interfaz gráfica sencilla, permite restaurar la visibilidad de los archivos y eliminar accesos directos sin necesidad de formatear la unidad.
+USB Doctor es una herramienta desarrollada en Python diseñada para reparar unidades USB afectadas por accesos directos y archivos ocultos causados por malware. A través de una interfaz gráfica sencilla, permite restaurar la visibilidad de los archivos y eliminar accesos directos sin necesidad de formatear la unidad.
 
 ## Características
 - Restaura la visibilidad de archivos ocultos en la USB.
