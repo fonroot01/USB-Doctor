@@ -39,4 +39,4 @@ USB Doctor es una herramienta desarrollada en Python diseñada para reparar unid
 ![Screenshot_1](https://github.com/user-attachments/assets/15952e46-d2d2-4ddf-b41b-f866f38d6372)
 
 ### Licencia
-Este proyecto fue creado por Alfonso Mosquera en 2025 y está protegido bajo la Licencia Pública General de GNU (GPL-3.0). Consulte el archivo LICENSE para más detalles.
+Este proyecto fue creado por Alfonso Mosquera y esta bajo la Licencia MIT. Consulte el archivo LICENSE para más detalles.
